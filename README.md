@@ -3,7 +3,7 @@
 #### Full-Stack Developer
 
 - 🔧 Tools: `NodeJs`, `Astro`, `React`, `NextJs`, `AWS`
-- 🌍 Lenguages: `.ts`, `.js`, `.html`, `.css`, `.php`, `.py`, `.sql`
+- 🌍 Languages: `.ts`, `.js`, `.html`, `.css`, `.php`, `.py`, `.sql`
 
 
 ##### About Me
