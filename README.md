@@ -14,7 +14,8 @@ Currently learning functional programming with <img src="https://upload.wikimedi
 
 <p>
 <a href="https://www.linkedin.com/in/franco-david-reyes"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
- <a href="mailto:fdr160102@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/-fdr160102%40gmail.com-white?logo=Gmail" alt="Get in touch"></a>
+ <a href="mailto:fdreyes.dev@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/-fdreyes.dev%40gmail.com-white?logo=Gmail" alt="Get in touch"></a>
+ <a href="mailto:fdreyes.dev@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/-fdreyes.dev%40gmail.com-white?logo=Read.cv" alt="Get in touch"></a>
  
 
 </p>  
