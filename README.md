@@ -1,27 +1,23 @@
 ### Hello there, I Am Franco Reyes 👋
-
-#### Full-Stack Developer
-
-- 🔧 Tools: `NodeJs`, `Astro`, `React`, `NextJs`, `AWS`
-- 🌍 Languages: `.ts`, `.js`, `.html`, `.css`, `.php`, `.py`, `.sql`
-
+#### Senior Full-Stack Engineer & Co-Founder
+- 🔧 Tools: `TypeScript`, `React`, `Hono`, `Cloudflare Workers`, `AWS`, `tRPC`
+- 🌍 Languages: `.ts`, `.js`, `.html`, `.css`, `.sql`
+- 🤖 AI/Automation: `LangChain`, `Cloudflare AI`, `Web Scraping`
 
 ##### About Me
-Computer Engineering Student at ITBA in Buenos Aires, Argentina.
-Quick learner and eager to explore new technologies. Believer in clean code, self-taught, and constantly striving for improvement. Always questioning, adaptable, and creative in problem-solving. Willing to think outside the box.
+Co-Founder of **Leia AI** (LegalTech) and **Seshat AI** (Product Intelligence). Computer Engineering at ITBA, Buenos Aires, Argentina.
 
-Currently learning functional programming with <img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Haskell-Logo.svg" alt="Haskell Logo" height="20"> Haskell.
+Passionate about **clean code**, **functional programming**, and building **scalable solutions from concept to production**. Self-taught developer with expertise in serverless architecture and AI integration. Always exploring cutting-edge technologies and questioning conventional approaches.
+
+Currently mastering functional programming with <img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Haskell-Logo.svg" alt="Haskell Logo" height="20"> Haskell and **Effect.ts**.
 
 <p>
-<a href="https://www.linkedin.com/in/franco-david-reyes"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
+<a href="https://www.linkedin.com/in/francoreyesdev"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
  <a href="mailto:fdreyes.dev@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/-fdreyes.dev%40gmail.com-white?style=social&logo=Gmail" alt="Get in touch"></a>
- <a href="https://francoreyes.vercel.app" target="_blank"> <img src="https://img.shields.io/badge/-portfolio-white?style=social&logo=codementor" alt="Portfolio"></a>
- <a href="./Resume - Franco Reyes.pdf" target="_blank"> <img src="https://img.shields.io/badge/-resume-black?style=social&logo=read.cv" alt="resume"></a>
- 
-
+ <a href="./Franco_Reyes_Senior_FullStack_Engineer.pdf" target="_blank"> <img src="https://img.shields.io/badge/-resume-black?style=social&logo=read.cv" alt="resume"></a>
 </p>  
 
-##### Coming Soon
-
-- 🚀 Next up: Rust, Solidity
-- 📚 Interested in: Docker, Laravel, Blockchain, AI
+##### Current Focus
+- 🚀 **Leia AI**: Automating legal document generation with AI
+- 🧠 **Seshat AI**: Product intelligence platform for e-commerce
+- 📚 Next up: **Rust**, **Blockchain**, **Advanced Docker/Kubernetes**
